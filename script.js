@@ -103,8 +103,6 @@ var score = 0;
 var name = '';
 
 welcome();  
-
-
 function welcome(){
     alert('Welcome To My Web Site ');
     name = prompt('Enter Your Name');
